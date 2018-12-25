@@ -1,0 +1,49 @@
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.exe.config
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.exe
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.pdb
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.dll
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.pdb
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.xml
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.xml
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.csprojResolveAssemblyReference.cache
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\MainWindow.baml
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\MainWindow.g.cs
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\App.g.cs
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf_MarkupCompile.cache
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.g.resources
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.Properties.Resources.resources
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.csproj.GenerateResource.Cache
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.exe
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.pdb
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\ConnectWindow.baml
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\obj\Debug\ConnectWindow.g.cs
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\Newtonsoft.Json.dll
+E:\User's Folders\Desktop\RA\Mapper\Mapper\Mapper.Wpf\bin\Debug\Newtonsoft.Json.xml
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.csprojResolveAssemblyReference.cache
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\MainWindow.baml
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\MainWindow.g.cs
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\App.g.cs
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf_MarkupCompile.cache
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.g.resources
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.Properties.Resources.resources
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.csproj.GenerateResource.Cache
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.csproj.CoreCompileInputs.cache
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.exe
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.pdb
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.exe.config
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.exe
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.pdb
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.dll
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Newtonsoft.Json.dll
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.pdb
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.xml
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\HelixToolkit.Wpf.xml
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Newtonsoft.Json.xml
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.exe.manifest
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\bin\Debug\Mapper.Wpf.application
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.exe.manifest
+E:\Home\Desktop\dr_min\Mapper\Mapper.Wpf\obj\Debug\Mapper.Wpf.application
