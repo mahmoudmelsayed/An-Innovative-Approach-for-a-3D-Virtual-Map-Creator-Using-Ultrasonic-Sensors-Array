@@ -13,3 +13,6 @@ Once the car moving start, the 5 sensors starts detecting for the X and Z values
 	The ultrasonic sensor records time values and those values are substituted in the equation (1) to obtain the values of the distance. This calculation is performed by certain portion of the code in Arduino. The resulting distance values obtained are then encoded and sent to the X-bee which in turn sends it to the receiving XBee attached to the computer. 
 Distance = Speed * Time/2	(1)
 When the second XBee receives the data, plot the 3D map. All of these features will be displayed on the GUI developed through C# as well within the same program flow. 
+
+
+
