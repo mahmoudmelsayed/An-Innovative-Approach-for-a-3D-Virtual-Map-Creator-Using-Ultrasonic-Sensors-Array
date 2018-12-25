@@ -3,7 +3,7 @@
 
 This project is a development of a 3D mapper robot. It consists of two main parts, the Arduino to control the vehicle and to send the data to the computer where the GUI that was built by C# will take over and plot the 3D map based on the received data 
 
-## CONTROL ALGORITHM
+## CONTROL ALGORITHM:
 ### A.	The robot vehicle
 The car moves based on the range of speed selected by the user and this is achieved by a simple torque control algorithm that keeps the range in the desired speed through the motor driver control. 
 	Once the speed range is selected and the start button is pressed the car will begin its motion and the three front sensors L, R and M will start recording signals and communicating with the Arduino to detect any possible obstacles and so for these sensors there are four possible scenarios at minimum. 
@@ -14,13 +14,13 @@ The car moves based on the range of speed selected by the user and this is achie
 	It is also important to mention that even though the navigation strategy mentioned above is by default. The user can actually determine a value for the minimum distance between the obstacle and the robot at which this default navigation algorithm is activated. 
 
 ### B.	The 3D mapping Algorithm
-	The 3D mapping data is obtained for the 2D plane firstly, the X and Z coordinate, from the 5 ultrasonic sensors mounted on the arc. The value for the third axis (Y- axis) is obtained from the position of the robot on its forward track. 
+The 3D mapping data is obtained for the 2D plane firstly, the X and Z coordinate, from the 5 ultrasonic sensors mounted on the arc. The value for the third axis (Y- axis) is obtained from the position of the robot on its forward track. 
 Once the car moving start, the 5 sensors starts detecting for the X and Z values and the counter starts incrementing for the Y values. 
-	The ultrasonic sensor records time values and those values are substituted in the equation (1) to obtain the values of the distance. This calculation is performed by certain portion of the code in Arduino. The resulting distance values obtained are then encoded and sent to the X-bee which in turn sends it to the receiving XBee attached to the computer. 
+The ultrasonic sensor records time values and those values are substituted in the equation (1) to obtain the values of the distance. This calculation is performed by certain portion of the code in Arduino. The resulting distance values obtained are then encoded and sent to the X-bee which in turn sends it to the receiving XBee attached to the computer. 
 Distance = Speed * Time/2	(1)
 When the second XBee receives the data, plot the 3D map. All of these features will be displayed on the GUI developed through C# as well within the same program flow. 
 
-### Pictures below show the robot, the components of the system, the GUI outlook, and the sensors  distribution.
+### The pictures below show the robot, the components of the system, the GUI outlook, and the sensors  distribution.
 
 ![image](https://user-images.githubusercontent.com/44964071/50421745-a4f29f00-083a-11e9-898f-df5b86e00f8f.png)
 
